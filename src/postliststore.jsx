@@ -32,4 +32,4 @@ const DEFAULT_CONTEXT=[{
     reaction:'56'
 },
 {id:'2',reaction:'44'}];
-export default PostlistProvider;
+export default PostlistProvider

@@ -16,4 +16,4 @@ function CreatePost(){
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>)
 }
-export default CreatePost
+export default CreatePost;

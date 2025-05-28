@@ -18,4 +18,4 @@ function App() {
     </div>
   </div></PostlistProvider>)
 }
-export default App
+export default App;
